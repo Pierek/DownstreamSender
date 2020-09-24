@@ -1,0 +1,11 @@
+venv/
+.vscode/
+log.*
+__pycache__
+DownstreamSender/*log.*
+log/
+/.vs
+/dotnet/FileFiller/FileFiller/FileFiller/obj/Release/netcoreapp2.2/FileFiller.AssemblyInfo.cs
+/dotnet/FileFiller/FileFiller/FileFiller/obj/Release/netcoreapp2.2/FileFiller.AssemblyInfoInputs.cache
+dotnet/Oec.KafkaBrowser/Oec.KafkaBrowser/Oec.KafkaBrowser/obj/x86/Debug/build.force
+dotnet/Oec.KafkaBrowser/Oec.KafkaBrowser/UpgradeLog2.htm
